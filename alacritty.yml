@@ -1,0 +1,49 @@
+# this is my basic config file for alacritty terminal emulator. 
+# use at your own risk
+
+# note to self, font is not defined, so alacritty should use default system font
+
+#
+#
+#
+
+
+
+# terminal opacity
+
+background_opacity: 0.88  # value range is 0 ~ 1
+
+# colours. Copied from my .Xresources file
+
+colors:
+  # Default colors
+  primary:
+    background: '#0d0c0c'
+    foreground: '#d0d0d0'
+
+  # Cursor colors
+  cursor:
+#   text: '#0d0c0c'
+   cursor: '#0d0c0c'
+
+  # Normal colors
+  normal:
+    black:   '#0f0e0e'
+    red:     '#ff0099'
+    green:   '#b61566'
+    yellow:  '#fb66bf'
+    blue:    '#0683a1'
+    magenta: '#7e079c'
+    cyan:    '#e207f2'
+    white:   '#ffffff'
+
+  # Bright colors
+  bright:
+    black:   '#808080'
+    red:     '#ff0099'
+    green:   '#b61566'
+    yellow:  '#fb66bf'
+    blue:    '#0683a1'
+    magenta: '#7e079c'
+    cyan:    '#e207f2'
+    white:   '#ffffff'
