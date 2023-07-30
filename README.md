@@ -1,6 +1,4 @@
 # stunning-adventure
-My dotfile repo, once I get around for seting it up.
+dotfiles, just dumped here since I use these on both Linux and FreeBSD
 
-This used to be the first test repository. 
-
-Stunning adventure? I let github name it automatically... cba to change it.
+This used to be the first test repository, hence the name.
